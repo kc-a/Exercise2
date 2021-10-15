@@ -1,0 +1,21 @@
+Package: praiseme
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Aayush",
+           family = "KC",
+           role = c("aut", "cre"),
+           email = "aayush.kc1@students.mq.edu.au")
+Description: 1^365=1 but 1.01^365 = 38 alwys putin littel effort!
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+        license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Imports: glue
+NeedsCompilation: no
+Packaged: 2021-10-15 07:03:14 UTC; xps
+Author: Aayush KC [aut, cre]
+Maintainer: Aayush KC <aayush.kc1@students.mq.edu.au>
+Built: R 4.0.4; ; 2021-10-15 07:03:21 UTC; windows
